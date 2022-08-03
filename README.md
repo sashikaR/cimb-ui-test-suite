@@ -3,8 +3,8 @@
 This automation framework has developed using Serenity BDD, Cucumber and Selenium frameworks. 
 ## The prerequisite
 
-1. Java 11
-2. Maven 3
+1. openjdk version "1.8.0_262"
+2. Apache Maven 3.6.3
 
 ### The project directory structure
 The project is build using Maven, and follows the standard directory structure used in most Serenity projects:
